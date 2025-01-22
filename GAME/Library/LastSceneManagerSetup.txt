@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-sceneSetups: []
-=======
 sceneSetups:
-- path: Assets/Scenes/Movement.unity
+- path: Assets/Scenes/INICIO DE JUEGO.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
->>>>>>> 9417d966351799eba9566f478335696a7b5e614e
